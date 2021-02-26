@@ -14,4 +14,4 @@ npm install
 ```
 - Build and run the project
 ```
-node server
+node secret_conn
